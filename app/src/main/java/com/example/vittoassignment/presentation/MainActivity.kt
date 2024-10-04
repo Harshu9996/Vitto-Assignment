@@ -1,4 +1,4 @@
-package com.example.vittoassignment
+package com.example.vittoassignment.presentation
 
 import android.os.Bundle
 import android.widget.ImageButton
@@ -8,6 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.navigation.NavController
 import androidx.navigation.fragment.findNavController
+import com.example.vittoassignment.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
